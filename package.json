@@ -13,7 +13,4 @@
   ],
   "author": "Danang Heriyadi <danang.heriyadi19@gmail.com>",
   "license": "GPL-3.0",
-  "peerDependencies": {
-    "react-native": "^0.69.2"
-  }
 }
